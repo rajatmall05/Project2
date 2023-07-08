@@ -1,0 +1,42 @@
+.para{
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.para1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-left: 450px;
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+.introduction{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 350px;
+    margin-right: 350px;
+    text-align: justify;
+}
+.heading2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.para3{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+.para4{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.side{
+    font-family: 'Times New Roman', Times, serif;
+    position: fixed;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
